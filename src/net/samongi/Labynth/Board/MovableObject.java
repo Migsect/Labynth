@@ -1,4 +1,4 @@
-package net.samongi.Labynth.Application.Board;
+package net.samongi.Labynth.Board;
 
 import java.awt.Image;
 import java.awt.event.KeyEvent;
